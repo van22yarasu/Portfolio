@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A project to showcase my portfolio",
+  
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Vanitha Sajja" 
+}
