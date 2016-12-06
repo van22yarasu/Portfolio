@@ -2,10 +2,13 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "A project to showcase my portfolio",
-  
   "repository": {
     "type": "git",
     "url": "?.git"
   },
-  "author": "Vanitha Sajja" 
+  "author": "Vanitha Sajja",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
